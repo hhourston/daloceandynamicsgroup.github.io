@@ -17,7 +17,7 @@ weight = 8
 [[social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/hana"
+    link = "//github.com/hhourston"
 
 [[organizations]]
 	name = "Dalhousie University"
