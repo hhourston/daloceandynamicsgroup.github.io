@@ -3,6 +3,7 @@ bio = ""
 date = "2016-07-12T15:52:22+02:00"
 id = "hana"
 interests = ["Gliders", "Scotian Shelf"]
+portrait = "portrait/hana_portrait.JPG"
 name = "Hana Hourston"
 short_bio = "MSc Student"
 short_name = "Hana"
